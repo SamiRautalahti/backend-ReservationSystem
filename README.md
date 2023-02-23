@@ -1,6 +1,8 @@
 # ReservationSystem2022
 
-Ohessa kurssin "AL00CM24-3001 Back-end työkalut 29.8.2022-31.12.2022" harjoitustyö.
+"AL00CM24-3001 Back-end työkalut 29.8.2022-31.12.2022"
+
+Ohessa kurssin harjoitustyö.
 
 Kontrollereiden riveille lisätty kommentit kullekin API-funktiolle.
 
