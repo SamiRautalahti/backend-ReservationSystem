@@ -1,4 +1,4 @@
-# ReservationSystem2022
+# ReservationSystem
 
 "AL00CM24-3001 Back-end työkalut 29.8.2022-31.12.2022"
 
